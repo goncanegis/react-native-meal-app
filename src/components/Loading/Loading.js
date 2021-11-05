@@ -4,7 +4,7 @@ import LottieView from 'lottie-react-native';
 const Loading = () => {
   return (
     <LottieView
-      source={require('../../assets/9844-loading-40-paperplane.json')}
+      source={require('../../assets/lf30_editor_pwah5xgg.json')}
       autoPlay
     />
   );
